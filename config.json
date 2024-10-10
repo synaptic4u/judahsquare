@@ -1,0 +1,8 @@
+{
+
+    "developing": true,
+    "serverURL": {
+        "dev": "https://judahsquare.local",
+        "prod": "https://judahsquare.com"
+    }
+}
