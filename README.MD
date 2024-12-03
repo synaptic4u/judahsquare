@@ -1,1 +1,3 @@
-This is a repo for a website I once sponsored a Rasta community with.
+This is a repo for a website I once sponsored a Rasta community with. Would like to just have it running again... 
+
+Need 'Some One' who will pay the website fees per annum!
